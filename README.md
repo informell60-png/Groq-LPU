@@ -1,3 +1,15 @@
+Lightning-Fast AI Powered by Groq: Thinks Faster Than You Type.
+
+Text: Experience a new level of AI interaction. Our service combines the immense power of Meta's Llama 3 model with the revolutionary Groq LPU architecture to deliver the world’s fastest text generation. No more waiting—get answers instantly.
+
+Key Features:
+
+🚀 Incredible Speed: Forget about lag. Experience real-time responses with zero latency.
+
+🧠 Smart Model: Solve complex problems, generate code, and analyze data effortlessly using Llama.
+
+📂 Seamless Export: Turn conversations into ready-to-use documents (.docx, .txt) or structured tables (.csv, .xlsx) with a single click.
+__________________________________________________________________________________________________________________________________________
 Откройте для себя новый уровень взаимодействия с искусственным интеллектом. Наш сервис объединяет мощнейшую языковую модель Llama 3 (от Meta) и революционную архитектуру Groq LPU, обеспечивая самую быструю генерацию текста в мире. Больше никаких ожиданий — получайте ответы мгновенно.
 
 Ключевые фишки:
@@ -7,3 +19,4 @@
 🧠 Умная модель: Решайте сложные задачи, пишите код и анализируйте данные с помощью Llama.
 
 📂 Удобный экспорт: Превращайте диалоги в готовые документы (.docx, .txt) или структурированные таблицы (.csv, .xlsx) одним кликом.
+
